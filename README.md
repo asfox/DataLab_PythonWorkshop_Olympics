@@ -1,57 +1,68 @@
-olympics_example
-==============================
+<img src="references/datalab-logo-full-color-rgb.png" height="100">
 
-Playing with olympic data for DataLab workshop.
+---
 
-Project Organization
-------------
+# Intro to Python for Data Analysis
+* March 3 (2-4pm)
+* Drew Fox
+* dfox@ucdavis.edu
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+## UC Davis DataLab (Data Science and Informatics)
+Supporting innovation, accelerating research for the entire community.
+* **Research**: Increase UC Davis's research impact via data-driven expertise.
+* **Training**: Support the next generation of data-capable researchers and students.
+* **Community**: Foster and coordinate data-enables
+
+Website: http://datalab.ucdavis.edu
+Email: datascience@ucdavis.edu
 
 
---------
+## Overview
+Describe target learners.
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+[//]: # (if you have a relevant image, photo, or link, this could be a good place to insert it)
+![alt text](/path/to/img.jpg "optional title")
+
+
+## Why Python?
+- Python is free, and open-source
+- Other people use it (most questions can be googled)
+- It does a number of different things well (works with CSVs, matrices, strings, etc.)
+- It tends to be easy to read, and generally follows the rules of a "good" language.
+- It works well with other tools (easily load xlsx, csv, .nii, fasta, etc.)
+- There are a number of useful packages (Numpy, Pandas, Scikit-Learn, Scikit-image, etc.)
+
+[//]: # (if you have a relevant image, photo, or link, this could be a good place to insert it)
+![alt text](/path/to/img.jpg "optional title")
+
+
+### [content example]
+- A little bit of python
+- A little bit on how to organize projects to facilitate reproducible science
+- How to make things that are way fancier than your programming skill level, using python packages
+
+
+[//]: # (insets can be helpful for key concepts or images)
+![alt text](/path/to/img.jpg "optional title")
+
+
+## References
+List anything referenced in, and/or used to develop, the workshop material.
+
+[//]: # (some logos, book images, or screen captures of mentioned resources could be inserted here)
+![alt text](/path/to/img.jpg "optional title")
+
+
+## Resources to Learn More
+I find it super helpful to watch youtube tutorials online. There are a bunch. [PyCon2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/videos) is a good place to start. 
+
+[//]: # (highlight any upcoming workshops)
+![alt text](/path/to/img.jpg "optional title")
+
+
+## Feedback
+Please complete the post-workshop survey!
+
+---
+
+<img src="references/datalab-logo-full-color-rgb.png" height="100">
